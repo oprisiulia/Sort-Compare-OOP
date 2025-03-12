@@ -30,3 +30,26 @@
 *.exe
 *.out
 *.app
+
+# more
+# Visual Studio/Qt Creator
+*.vcxproj.user
+*.sln
+*.ncb
+*.sdf
+*.opensdf
+*.suo
+*.pdb
+*.ipch
+*.tlog
+*.lastbuildstate
+x64/
+Debug/
+Release/
+.vscode/
+.idea/
+CMakeFiles/
+CMakeCache.txt
+*.pro.user
+*.qmake.stash
+
